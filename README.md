@@ -1,6 +1,6 @@
-               # Online Payments Fraud Detection
+# Online Payments Fraud Detection
                
-# Abstract
+  # Abstract
 
 
 Financial transactions have been changed by the exponential expansion of internet payment systems, which now offer speed and ease. But this expansion has also raised the risk of fraud for both financial institutions and users. The increasing use of online payments has led to a rise in the complexity and scope of fraudulent activity, which has resulted in significant financial losses. Hence, there is a compelling demand for improved fraud detection systems that not only detect fraud in real time but also decrease false positives, providing a flawless user experience.
