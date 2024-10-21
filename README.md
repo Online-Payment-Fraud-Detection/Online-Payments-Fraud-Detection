@@ -18,3 +18,5 @@ The key columns in the dataset include:
 10.	isFraud: fraud transaction
     
 A combination of supervised learning techniques like logistic regression, decision trees, and random forests will be used for classification. Additionally, unsupervised learning methods such as clustering and anomaly detection will help identify previously unseen fraud patterns. The implementation will use Python along with libraries like Scikit-learn, TensorFlow, and Pandas to develop and evaluate a reliable and flexible model capable of real-time fraud detection. This approach aims to reduce financial losses and enhance trust in online payment systems.
+
+Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset?resource=download
