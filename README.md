@@ -52,7 +52,7 @@ A combination of supervised learning techniques like logistic regression, decisi
 
 
 # Code 
- Online Payments Fraud Detection.py : Data cleaning , transformation and Visualizations.
-.py: Model training and evaluation scripts (Random Forest, Logistic Regression, Decision Tree).
+Online Payments Fraud Detection.ipynb : Data cleaning , transformation and Visualizations.
+model_online_payment_fraud.ipynb : Model training and evaluation scripts (Random Forest, Logistic Regression, Decision Tree).
 
 Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset?resource=download
