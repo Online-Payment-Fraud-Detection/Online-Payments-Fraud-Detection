@@ -50,4 +50,9 @@ A combination of supervised learning techniques like logistic regression, decisi
 - Using accuracy, precision, recall, F1-score, and confusion matrix to evaluate models.
 
 
+
+# Code 
+ Online Payments Fraud Detection.py : Data cleaning , transformation and Visualizations.
+.py: Model training and evaluation scripts (Random Forest, Logistic Regression, Decision Tree).
+
 Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset?resource=download
