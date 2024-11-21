@@ -22,31 +22,37 @@ A combination of supervised learning techniques like logistic regression, decisi
 # Project Stages
 
 1. Problem Definition
+   
 Understanding the fraud detection data.
 Identifying key challenges like class imbalance.
 
 
-2. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
+   
 Analyzing data characteristics, distribution, and potential outliers.
 Visualizing key patterns using plots (e.g., histograms, correlation heatmaps).
 
 
-3.Data Preprocessing
+3. Data Preprocessing
+
 Handling missing values, categorical encoding, and scaling.
 Addressing class imbalance using techniques like oversampling/undersampling.
 
 
-4.Feature Engineering
+4. Feature Engineering
+
 Applying Principal Component Analysis (PCA) for dimensionality reduction.
 Generating new features based on domain knowledge.
 
 
 5. Model Development
+   
 Training multiple models: Logistic Regression, Random Forest, Decision Tree, etc.
 
 
 
-6. Model Evaluation
+7. Model Evaluation
+   
 Using accuracy, precision, recall, F1-score, and confusion matrix to evaluate models.
 
 
